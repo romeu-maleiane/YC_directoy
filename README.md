@@ -1,36 +1,64 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# YC_directory 🚀
 
-## Getting Started
+Welcome to **YC_directory** –  
+A curated portfolio project by [Romeu Maleiane](https://github.com/romeu-maleiane) showcasing a modern directory for Y Combinator-backed startups and companies.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## ✨ Project Highlights
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Powerful Search & Filtering:** Effortlessly browse YC companies by industry, batch, location, or keywords.
+- **Rich Company Profiles:** View detailed info for each startup, including founders, batch year, and links.
+- **Modern Interface:** Built with attention to UX, clarity, and responsiveness.
+- **Personal Portfolio Project:** This repository is a demonstration of my skills and is **not open source**.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🚦 Getting Started
 
-## Learn More
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/romeu-maleiane/YC_directory.git
+   cd YC_directory
+   ```
 
-To learn more about Next.js, take a look at the following resources:
+2. **Install dependencies**
+   ```bash
+   # Update this section with your actual stack, e.g.:
+   npm install
+   ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+3. **Run the project**
+   ```bash
+   npm start
+   ```
+   _Or see more in the documentation for other environments._
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 🛠️ Tech Stack
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **Backend:** [Node.js]
+- **Frontend:** [Next.js, React, Tailwind CSS]
+- **Database:** [Sanity]
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 🙋 About The Author
+
+**Romeu Maleiane**  
+Developer, builder, and YC enthusiast.  
+Find me on [GitHub](https://github.com/romeu-maleiane) or reach out for collaborations and opportunities!
+
+---
+
+## 📄 License & Usage
+
+This project is part of my personal portfolio and **not intended for public use or open source contributions**.
+
+---
+
+## 🌟 Like what you see?
+
+Connect with me for freelance work, full-time opportunities, or to discuss YC startups!
+
