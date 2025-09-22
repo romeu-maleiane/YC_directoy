@@ -1,5 +1,9 @@
 # YC_directory 🚀
 
+![YC_directory](https://drive.google.com/uc?id=128Wq4ZNi_7iWHt5tXubuHd1EpArzZoP6)
+
+[Visit YC_directory](https://yc-directoy-mocha.vercel.app/)
+
 Welcome to **YC_directory** –  
 A curated portfolio project by [Romeu Maleiane](https://github.com/romeu-maleiane) showcasing a modern directory for Y Combinator-backed startups and companies.
 
